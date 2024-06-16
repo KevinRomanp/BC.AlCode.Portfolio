@@ -1,0 +1,39 @@
+{
+  "id": "7e0a0678-79be-43e0-85a9-b1f719429168",
+  "name": "Queries Power BI",
+  "publisher": "DYNASOFT SRL",
+  "version": "1.0.0.1",
+  "brief": "",
+  "description": "",
+  "privacyStatement": "",
+  "EULA": "",
+  "help": "",
+  "url": "",
+  "logo": "LogoOriginal.png",
+  "dependencies": [
+    {
+      "id": "97e14a02-c13b-4a04-92a5-f58928759ffb",
+      "name": "DSContratosComerciales",
+      "publisher": "DYNASOFT SRL",
+      "version": "1.0.0.2"
+    }
+  ],
+  "screenshots": [],
+  "platform": "1.0.0.0",
+  "application": "22.0.0.0",
+  "idRanges": [
+    {
+      "from": 52000,
+      "to": 52250
+    }
+  ],
+  "resourceExposurePolicy": {
+    "allowDebugging": true,
+    "allowDownloadingSource": true,
+    "includeSourceInSymbolFile": true
+  },
+  "runtime": "11.0",
+  "features": [
+    "NoImplicitWith"
+  ]
+}
